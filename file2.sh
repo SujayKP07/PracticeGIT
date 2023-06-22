@@ -1,4 +1,4 @@
 # !/bin/bash
 #
 #Practice code
-echo "First shell script"
+echo "shell script"
